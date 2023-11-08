@@ -1,0 +1,39 @@
+.user-table
+{
+    margin: 0 auto;
+}
+
+#table
+{
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    width: 97%;
+    margin: 20px;
+    border-radius: 3px;
+    border: 2px solid #ffffff; /* Add a border around the entire table */
+}
+
+th{
+    border: 1px solid #ffffff; /* Add a border around table cells */
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #000000; /* Add a background color for table headings */
+}
+.container
+{
+    text-align: center;
+    color: white;
+}
+td{
+    padding-left: 13px;
+}
+body
+{
+    background-color: rgb(33, 37, 37);
+}
